@@ -1,0 +1,23 @@
+
+body {
+    
+    background-color: #faebd6;
+
+}
+
+h1 {
+    color: #ff0000;
+    padding: 26px;
+    text-align: center;
+}
+
+h1+p {
+    margin: 36px;
+    color: #a42423;
+}
+
+p+p {
+
+    margin: 36px;
+    color: #00008f;
+}
